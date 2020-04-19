@@ -1,6 +1,7 @@
 This is another sample of testing_dev1.txt
 
-
-updated testing_dev1.txt
+Added new line from master
+corrected testing_dev1.txt
 
 removed testing_dev1.txt
+Added new line from master
